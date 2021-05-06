@@ -1,0 +1,18 @@
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\bin\Debug\WpfApp Step Ders 6 May.exe.config
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\bin\Debug\WpfApp Step Ders 6 May.exe
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\bin\Debug\WpfApp Step Ders 6 May.pdb
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May.csprojAssemblyReference.cache
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\MainWindow.g.cs
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\App.g.cs
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May_MarkupCompile.cache
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May_MarkupCompile.lref
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\MainWindow.baml
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May.g.resources
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp_Step_Ders_6_May.Properties.Resources.resources
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May.csproj.GenerateResource.cache
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May.csproj.CoreCompileInputs.cache
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May.exe
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May.pdb
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Osma_th97\source\repos\WpfApp Step Ders 6 May\WpfApp Step Ders 6 May\obj\Debug\WpfApp Step Ders 6 May.csproj.CopyComplete
